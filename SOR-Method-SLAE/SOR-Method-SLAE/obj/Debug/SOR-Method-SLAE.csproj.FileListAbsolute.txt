@@ -1,0 +1,7 @@
+C:\study\SOR-Method\SOR-Method-SLAE\SOR-Method-SLAE\bin\Debug\SOR-Method-SLAE.exe.config
+C:\study\SOR-Method\SOR-Method-SLAE\SOR-Method-SLAE\bin\Debug\SOR-Method-SLAE.exe
+C:\study\SOR-Method\SOR-Method-SLAE\SOR-Method-SLAE\bin\Debug\SOR-Method-SLAE.pdb
+C:\study\SOR-Method\SOR-Method-SLAE\SOR-Method-SLAE\obj\Debug\SOR-Method-SLAE.csproj.AssemblyReference.cache
+C:\study\SOR-Method\SOR-Method-SLAE\SOR-Method-SLAE\obj\Debug\SOR-Method-SLAE.csproj.CoreCompileInputs.cache
+C:\study\SOR-Method\SOR-Method-SLAE\SOR-Method-SLAE\obj\Debug\SOR-Method-SLAE.exe
+C:\study\SOR-Method\SOR-Method-SLAE\SOR-Method-SLAE\obj\Debug\SOR-Method-SLAE.pdb
